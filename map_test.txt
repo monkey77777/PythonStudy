@@ -1,0 +1,10 @@
+#
+
+words = ['Python', 'CSS', 'HTML', 'JavaScript']
+
+
+    
+x = map(text_lower, words)
+
+for text in x:
+    print(text)
